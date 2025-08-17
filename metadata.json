@@ -1,0 +1,5 @@
+{
+  "name": "Wingo Games",
+  "description": "A casino web application that emulates the Wingo color prediction game, featuring game history, betting options, and a real-time countdown.",
+  "requestFramePermissions": []
+}
